@@ -35,3 +35,9 @@ O projeto é estruturado em três abas principais:
 
 ## Destaques Técnicos & Aprendizados
 O desenvolvimento deste projeto permitiu exercitar a modelagem de dados, tratamento de erros de tipo em funções e a criação de interfaces limpas focadas em usabilidade e clareza financeira.
+
+---------------------------------
+
+## Acesso ao Projeto
+Você pode acessar a versão interativa deste dashboard diretamente no Google Sheets:
+>>> [Acessar Planilha - Dashboard de Orçamento Mensal](https://docs.google.com/spreadsheets/d/1cu0oo5ZDM8hteA41ynujg0wlrUUpfMokilvc_B8XdXs/edit?usp=sharing)
