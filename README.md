@@ -40,4 +40,4 @@ O desenvolvimento deste projeto permitiu exercitar a modelagem de dados, tratame
 
 ## Acesso ao Projeto
 Você pode acessar a versão interativa deste dashboard diretamente no Google Sheets:
->>> [Acessar Planilha - Dashboard de Orçamento Mensal](https://docs.google.com/spreadsheets/d/1cu0oo5ZDM8hteA41ynujg0wlrUUpfMokilvc_B8XdXs/edit?usp=sharing)
+> [Acessar Planilha - Dashboard de Orçamento Mensal](https://docs.google.com/spreadsheets/d/1cu0oo5ZDM8hteA41ynujg0wlrUUpfMokilvc_B8XdXs/edit?usp=sharing)
